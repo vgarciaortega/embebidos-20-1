@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 German Silvestre Añorve Pons
 Mi numero de boleta es: 2016630011
+=======
+
+Sergio Ernesto Meza González
+Mi número de boleta es: 2016630485
+>>>>>>> 95a9142b2f2aaa4afacf5055a77fa9a345016db5
